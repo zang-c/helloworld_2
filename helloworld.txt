@@ -1,1 +1,1 @@
-hello world. my goal is to upload this file into a github repository
+hello world. my goal is to upload this file into a github repository. I am editing this file using the vi editor.
